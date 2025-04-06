@@ -1,0 +1,9 @@
+
+:root {
+	color-scheme: light dark;
+}
+
+html {
+	background-color: light-dark(#888, #222);
+	color: light-dark(#222, #888);
+}
